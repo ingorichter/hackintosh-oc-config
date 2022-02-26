@@ -16,3 +16,4 @@ That resolved the BT issues I was seeing.
 
 I updated my Bios to F9 and reset all settings. I followed the recommendations from https://github.com/baughmann/designaire-z390-intel-i9-9900k-opencore/blob/master/BIOS.md
 
+[Here](BiosSettings.md)
